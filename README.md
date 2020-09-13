@@ -26,17 +26,6 @@ Atualmente sou **Cientista de Dados Júnior** na [Refinaria de Dados](https://re
 
 <br>
 
-<details open> 
- <summary><b>Artigos</b>:</summary>
- 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@KarinneCristina/0" alt="Recent Article 1"></a>
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@KarinneCristina/1" alt="Recent Article 1"></a>
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@KarinneCristina/2" alt="Recent Article 2"></a>
-
-</details>
-
 <details open>
  <summary><b>Status Github:</b> </summary>
 
