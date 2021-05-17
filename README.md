@@ -46,9 +46,12 @@ Atualmente sou **Cientista de Dados Júnior** na [Refinaria de Dados](https://re
  
  <br>
 
-<b> ⚡ Github Stats</b>:
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+[![Karinne github stats](https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark)](https://github.com/karinnecristina)
 
 <br>
 
-[![Karinne github stats](https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark)](https://github.com/karinnecristina)
+<b> ⚡ Repositório Principal</b>:
+
 [![Karinne github stats](https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data-Science&theme=dark)](https://github.com/karinnecristina/Data-Science)
