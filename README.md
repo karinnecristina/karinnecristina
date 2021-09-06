@@ -10,7 +10,9 @@
 
 <br> 
 
-Atualmente sou **Cientista de Dados Júnior** na [Refinaria de Dados](https://refinariadedados.com.br/), onde atuo nos processos de coleta de dados, estruturação de bancos de dados, identificação dos usuários, higienização de bases de dados, pré-processamento de dados, desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
+Atuo nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
+
+I work in data collection, structuring and pre-processing processes, in addition to developing analytical models (predictive and descriptive) and other processes that support the data squad in the evolution of products and services.
 
 <br>
 <br>
