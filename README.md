@@ -56,4 +56,4 @@ I work in data collection, structuring and pre-processing processes, in addition
 
 <b> ⚡ Repositório Principal</b>:
 
-[![Karinne github stats](https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data-Science&theme=dark)](https://github.com/karinnecristina/Data-Science)
+[![Karinne github stats](https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark)](https://github.com/karinnecristina/Data-Science)
