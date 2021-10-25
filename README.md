@@ -50,10 +50,18 @@ I work in data collection, structuring and pre-processing processes, in addition
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
-[![Karinne github stats](https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark)](https://github.com/karinnecristina)
+<div align="left">
+  <a href="https://github.com/karinnecristina">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=karinnecristina&show_icons=true&theme=dark&include_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinnecristina&layout=compact&langs_count=5&theme=dark"/>
+</div>
 
 <br>
 
 <b> ⚡ Repositório Principal</b>:
-
-[![Karinne github stats](https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark)](https://github.com/karinnecristina/Data-Science)
+ 
+<div align="left">
+  <a href="https://github.com/karinnecristina">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_dados&theme=dark"/>
+</div>
