@@ -35,21 +35,28 @@ I work in data collection, structuring and pre-processing processes, in addition
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
- 
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+
  #### ⚙️ Engenharia de dados:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  
  #### 📚 Tenho conhecimento básico:
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  
  #### 🌱 Estou aprendendo:
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
  ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+ 
  
  <br>
 
