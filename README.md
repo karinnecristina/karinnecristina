@@ -42,16 +42,16 @@
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  
  #### 📚 Tenho conhecimento básico:
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  
  #### 🌱 Estou aprendendo:
  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=flat-square&logo=Elasticsearch)
  ![Kibana](https://img.shields.io/badge/Kibana-black?style=flat-square&logo=Kibana)
- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
  ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  
