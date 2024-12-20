@@ -9,9 +9,14 @@
   <img src="https://github.com/karinnecristina/karinnecristina/blob/master/Banner.gif" alt="animated" />
 </p>
 
-**Engenheira de dados** com foco nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
+Engenheira de Dados com sólida experiência em desenvolvimento de pipelines escaláveis, integração de sistemas e otimização de plataformas de dados. Especialista em coleta, transformação e armazenamento de grandes volumes de dados, utilizando tecnologias como Spark, Databricks e serviços de nuvem (AWS e GCP).
 
-**Data engineer** with a focus on data collection, structuring and pre-processing processes, in addition to the development of analytical models (predictive and descriptive) and other processes that support the data squad in the evolution of products and services.
+Trabalho na criação de soluções de engenharia de dados que impulsionam a eficiência de produtos e serviços, com foco em desempenho, escalabilidade e segurança. Tenho expertise em ferramentas de orquestração como Apache Airflow e na implementação de arquiteturas de dados em ambientes on-premises e cloud.
+
+
+Data Engineer with solid experience in building scalable pipelines, system integration, and optimizing data platforms. Specialized in data collection, transformation, and storage of large datasets using technologies such as Spark, Databricks, and cloud services (AWS).
+
+I design and implement data engineering solutions to enhance the efficiency of products and services, focusing on performance, scalability, and security. Proficient in orchestration tools like Apache Airflow and in implementing data architectures in both on-premises and cloud environments.
 
 <br>
 
