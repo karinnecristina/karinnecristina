@@ -13,6 +13,7 @@ Engenheira de Dados com sólida experiência em desenvolvimento de pipelines esc
 
 Trabalho na criação de soluções de engenharia de dados que impulsionam a eficiência de produtos e serviços, com foco em desempenho, escalabilidade e segurança. Tenho expertise em ferramentas de orquestração como Apache Airflow e na implementação de arquiteturas de dados em ambientes on-premises e cloud.
 
+___
 
 Data Engineer with solid experience in building scalable pipelines, system integration, and optimizing data platforms. Specialized in data collection, transformation, and storage of large datasets using technologies such as Spark, Databricks, and cloud services (AWS).
 
